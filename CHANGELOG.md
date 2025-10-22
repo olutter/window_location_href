@@ -1,3 +1,7 @@
+## [2.0.0]
+
+* Wasm ready.
+
 ## [1.0.1+2]
 
 * href, userAgent and platform.
